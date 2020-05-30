@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_data_policy_rule">
+    <sys_data_policy_rule action="INSERT_OR_UPDATE">
+        <disabled>ignore</disabled>
+        <field>nps</field>
+        <mandatory>true</mandatory>
+        <sys_class_name>sys_data_policy_rule</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2020-05-30 18:43:56</sys_created_on>
+        <sys_data_policy display_value="Sets the NPS field to mandatory">2a81c0ea618950107f443e3805249738</sys_data_policy>
+        <sys_id>ea81c0ea618950107f443e380524973a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>nps</sys_name>
+        <sys_package display_value="Peer Review" source="x_1234_peer_review">ae5f3b5a618950107f443e38052497a6</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Peer Review">ae5f3b5a618950107f443e38052497a6</sys_scope>
+        <sys_update_name>sys_data_policy_rule_ea81c0ea618950107f443e380524973a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2020-05-30 18:43:56</sys_updated_on>
+        <table>x_1234_peer_review_user_score</table>
+    </sys_data_policy_rule>
+</record_update>
